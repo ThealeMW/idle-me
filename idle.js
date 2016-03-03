@@ -1,10 +1,3 @@
-/*
-* v1.0
-* Developed by ThealeMW & Dwynr
-*
-* Node libraries you'll need:
-* npm install steam-user
-*/
 var SteamUser = require("steam-user");
 var client = new SteamUser();
 client.logOn({
