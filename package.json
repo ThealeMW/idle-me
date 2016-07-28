@@ -1,0 +1,27 @@
+{
+  "name": "idle-me",
+  "version": "1.0.0",
+  "description": "Idles steam games for you using nodejs",
+  "main": "idle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThealeMW/idle-me.git"
+  },
+  "keywords": [
+    "Steam",
+    "Idlebot",
+    "afk"
+  ],
+  "author": "ThealeMW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThealeMW/idle-me/issues"
+  },
+  "homepage": "https://github.com/ThealeMW/idle-me#readme",
+  "dependencies": {
+    "steam-user": "^3.11.0"
+  }
+}
