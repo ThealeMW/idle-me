@@ -23,6 +23,6 @@
   "homepage": "https://github.com/ThealeMW/idle-me#readme",
   "dependencies": {
     "steam-totp": "^1.4.0",
-	"steam-user": "^3.11.0"
+    "steam-user": "^3.11.0"
   }
 }
